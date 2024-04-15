@@ -1,0 +1,29 @@
+body,h1,h2 {
+    margin: 0;
+    
+    
+}
+
+
+.main-div{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.main2-div{
+   
+    display: flex;
+    justify-content: center;
+    border: 5px solid white;
+    padding: 5px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+    
+    
+   
+   
+}
